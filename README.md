@@ -2,6 +2,7 @@
 
 # Support my work on open-source projects
 You can help support me to continue working on open-source projects through [BuyMeACoffee.com](https://www.buymeacoffee.com/AlexVerrico)  
+Or by hiring me (get in touch with me through [contact@alexverrico.com](mailto:contact@alexverrico.com))
 
 # About Me
 Hi there, I'm Alex (Also known as TheComputerGuy132 in some communities)  
